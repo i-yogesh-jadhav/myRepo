@@ -1,4 +1,7 @@
 #include<stdio.h>
-void main(){
+int main(){
+//printing lines
 printf("Hello world");
+printf("this is me");
+return 0;
 }
