@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+// hello word 
 //printing lines
 printf("Hello world");
 printf("this is me");
